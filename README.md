@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&size=38&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;Do+you+want+to+know+what+my+skills+are%3F;Well%2C+look+at+these+icons:" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&size=38&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile+!;Do+you+want+to+know+what+my+skills+are%3F;Well%2C+look+at+these+icons+:" alt="Typing SVG" />
 
 </div>
 <br>
