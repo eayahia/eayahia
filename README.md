@@ -15,3 +15,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,figma,mysql,php" />
   </a>
 </p>
+<br>
+<br>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Feayahia"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views%20&labelColor=%23000000&countColor=%23ffffff&labelStyle=upper" /></a>
