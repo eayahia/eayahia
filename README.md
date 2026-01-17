@@ -17,4 +17,6 @@
 </p>
 <br>
 <br>
+<p align="center">
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Feayahia"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views%20&labelColor=%23000000&countColor=%23ffffff&labelStyle=upper" /></a>
+</p>
