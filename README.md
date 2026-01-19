@@ -24,5 +24,11 @@
 <br>
 <br>
 <p align="center">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Feayahia"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views%20&labelColor=%23ffffff&countColor=%23ffffff&labelStyle=upper" /></a>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Feayahia">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views%20&labelColor=%23ffffff&countColor=%23000000&labelStyle=upper">
+      <source media="(prefers-color-scheme: light)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views%20&labelColor=%23000000&countColor=%23555555&labelStyle=upper">
+      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views%20&labelColor=%23000000&countColor=%23555555&labelStyle=upper" alt="Views">
+    </picture>
+  </a>
 </p>
