@@ -28,7 +28,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views%20&labelColor=%230000000&countColor=%23FFFFFFF&labelStyle=upper">
       <source media="(prefers-color-scheme: light)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views%20&labelColor=%23FFFFFF&countColor=%230000000&labelStyle=upper">
-      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views%20&labelColor=%23000000&countColor=%23555555&labelStyle=upper" alt="Views">
+      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views%20&labelColor=%23FFFFFFF&countColor=%2300000000&labelStyle=upper" alt="Views">
     </picture>
   </a>
 </p>
