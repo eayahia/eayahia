@@ -26,9 +26,9 @@
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Feayahia">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views%20&labelColor=%230000000&countColor=%23FFFFFFF&labelStyle=upper">
-      <source media="(prefers-color-scheme: light)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views%20&labelColor=%23FFFFFF&countColor=%230000000&labelStyle=upper">
-      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views%20&labelColor=%23FFFFFFF&countColor=%2300000000&labelStyle=upper" alt="Views">
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views&labelColor=%230d1117&countColor=%230d1117&labelStyle=upper">
+      <source media="(prefers-color-scheme: light)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views&labelColor=%23ffffff&countColor=%23ffffff&labelStyle=upper">
+       <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feayahia&label=Views&labelColor=%23ffffff&countColor=%23ffffff&labelStyle=upper" alt="Views">
     </picture>
   </a>
 </p>
