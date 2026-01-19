@@ -2,7 +2,13 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=38&pause=1000&color=000000&vCenter=true&center=true&width=800&lines=Welcome+to+my+profile+!;Do+you+want+to+know+what+my+skills+are+%3F;Well%2C+look+at+these+icons&color=000000&theme=dark&color=FFFFFF" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile+!;Do+you+want+to+know+what+my+skills+are+%3F;Well%2C+look+at+these+icons">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=38&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile+!;Do+you+want+to+know+what+my+skills+are+%3F;Well%2C+look+at+these+icons">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=38&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile+!;Do+you+want+to+know+what+my+skills+are+%3F;Well%2C+look+at+these+icons">
+</picture>
+
+
 
 </div>
 <br>
